@@ -1,6 +1,6 @@
 # IoT Smart Car with Obstacle Detection 🚗
 ![Smart Car](Desktop/IotProjects/images/photo_2026-07-19_12-20-31.jpg)
-[Watch Video Demo](Desktop/IotProjects/images/video_2026-07-19_12-20-47.mp4)
+
 ## Description
 This project is an IoT-based smart car developed using ESP32, L298N motor driver, and HC-SR04 ultrasonic sensor. The car can detect obstacles and automatically change its direction to avoid collisions.
 
